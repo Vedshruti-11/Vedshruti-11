@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedshruti Sarkar
 - 👀 I’m interested in coding & development
-- 🌱 I’m currently learning frontend networks
+- 🌱 I’m currently learning from day to day life.
 - 📫 Reach me at LinkedIn- Vedshruti Sarkar
 https://www.linkedin.com/in/vedshruti-sarkar-488600195
 <!---
